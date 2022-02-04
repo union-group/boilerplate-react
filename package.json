@@ -1,6 +1,6 @@
 {
-  "name": "vxtel",
-  "version": "0.1.0",
+  "name": "boilerplate-union-group-react",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -16,6 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "generate": "yarn plop --plopfile plop/plopfile.js",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
