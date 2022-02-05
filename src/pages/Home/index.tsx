@@ -1,7 +1,5 @@
-import React from 'react'
-
-import styles from './styles.module.scss'
+import { SampleComponent } from 'components/SampleComponent'
 
 export const Home = () => {
-  return <h1 className={styles.teste}>Hello World</h1>
+  return <SampleComponent title="Hello World Union group" />
 }
