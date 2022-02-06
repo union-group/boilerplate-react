@@ -7,6 +7,9 @@ Boilerplate utilizado pelos times de frontend, durante os projetos desenvolvidos
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 - [Plop](https://github.com/plopjs/plop)
+- [Husky](https://typicode.github.io/husky)
+- [Lint Staged](https://github.com/okonet/lint-staged)
+- [Git commit msg linter](https://github.com/legend80s/commit-msg-linter)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
@@ -26,15 +29,9 @@ Você pode começar a editar a página modificando `pages/Home/index.tsx`.
 - `start`: Roda a aplicação em `localhost:3000`
 - `build`: Cria a versão de produção
 - `lint`: Executa o linter em todos os componentes e páginas
-- `generate`: Cria um novo componente ou página de forma automática
+- `generate`: Cria um novo componente ou página de forma automatizada
 
 ## Gerando
-Você pode gerar um novo componente ou página executando:
-```bash
-npm run generate
-# ou
-yarn generate
-```
-* Após executar o comando, você fornecer um novo para que seja criado os arquivos.
+![plop demo](https://res.cloudinary.com/dbnq26wqe/image/upload/v1644175392/others/ezgif.com-gif-maker_rareme.gif)
 
 
